@@ -11,4 +11,6 @@ func main() {
 	fmt.Println(aoc.Part2("inputs/day1.txt"))
 	fmt.Println(aoc.Day2Part1("inputs/day2.txt"))
 	fmt.Println(aoc.Day2Part2("inputs/day2.txt"))
+	fmt.Println(aoc.Day3Part1("inputs/day3.txt"))
+	fmt.Println(aoc.Day3Part2("inputs/day3.txt"))
 }
